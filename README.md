@@ -44,3 +44,6 @@ In this challenging part, the mischievous deity Loki removes the "spots" from th
 Feel free to experiment with different inputs and test cases to ensure the correctness of your implementation.
 
 Make it better by providing clear examples, edge cases, and additional context in the code comments or documentation. Consider using a consistent coding style and meaningful variable/function names for better readability.
+## Output
+![image](https://github.com/TEJASWANTH123/Easydie-securin/assets/93636836/62c2df01-525e-4024-9073-b034d9336e28)
+
